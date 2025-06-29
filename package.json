@@ -5,10 +5,10 @@
   "homepage": "https://shiva-matcha.github.io/shiva_portfolio",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
-    "preview": "vite preview",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+    "build": "npx vite build",
+
+    "preview": "vite preview"
+    
   },
   "dependencies": {
     "@emailjs/browser": "^4.4.1",
