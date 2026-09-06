@@ -31,12 +31,11 @@ export default function About() {
         >
           <h2 className="text-4xl font-bold">About Me</h2>
           <p className="text-lg text-gray-700">
-            Hey there! I’m <span className="font-semibold text-black">Shiva</span>,— a backend-focused developer passionate about crafting reliable, scalable, and high-performance systems that power modern web applications. With a strong foundation in Java, Spring Boot, and RESTful APIs, 
-            I specialize in building the logic and infrastructure behind seamless digital experiences.
+            Hey there! I’m <span className="font-semibold text-black">Shiva</span>,— a Full-Stack Developer with 3+ years of professional experience and a Fitness Trainer with 10+ years of hands-on experience in training, fitness, and performance.
 
           </p>
-          <p className="text-md text-gray-600">
-            I’ve evolved into a full-stack developer, combining my backend expertise with modern frontend technologies like React, Tailwind CSS to bring ideas to life from end to end.
+          <p className="text-md text-gray-700">
+            build scalable applications with Java, Spring Boot, React, and modern web technologies. Now, I’m focused on creating fitness-tracking solutions that transform real-world fitness knowledge into intelligent, accessible technology.
 
           </p>
           <p>Let’s build something great together! 🚀</p>
